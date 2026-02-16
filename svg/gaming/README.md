@@ -10,3 +10,4 @@ Gaming projects and platforms.
 - Magic Block
 - Honeyland
 - Nyan Heroes
+- Cryptara Conquest
